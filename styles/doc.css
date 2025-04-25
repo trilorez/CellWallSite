@@ -1,0 +1,21 @@
+html {
+    background-color: black;
+    color: #D3D3D3;
+    font-size: 16px;
+    font-family: -apple-system, "BlinkMacSystemFont", "Helvetica Neue", "Helvetica";
+    padding: 20px;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: white;
+}
+
+h2, strong, a {
+    color: gray;
+}
+
+a:hover, a:active {
+    color: white;
+}
